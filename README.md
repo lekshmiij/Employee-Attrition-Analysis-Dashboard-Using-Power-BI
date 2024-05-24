@@ -29,3 +29,7 @@ Bar charts and pie charts are used to visualize the attrition rates for differen
 
 
 The dashboard offers a comprehensive view of employee attrition patterns, allowing HR professionals and decision-makers to identify potential areas of concern and develop strategies to address employee retention challenges.
+
+
+## _Dataset used_
+This dataset contains information about employees, including attributes like EmpID, Age, Attrition status, Business Travel frequency, Department, DailyRate, DistanceFromHome, Education level, EducationField, Gender, JobRole, MaritalStatus, MonthlyIncome, OverTime status, PercentSalaryHike, PerformanceRating, RelationshipSatisfaction, TotalWorkingYears, WorkLifeBalance, YearsAtCompany, YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager, and more. Each row represents an individual employee, while each column provides specific details or characteristics about them.
